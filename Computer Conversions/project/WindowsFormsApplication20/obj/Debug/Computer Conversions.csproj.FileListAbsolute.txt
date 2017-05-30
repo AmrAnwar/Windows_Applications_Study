@@ -1,0 +1,3 @@
+c:\users\astral\documents\visual studio 2015\Projects\WindowsFormsApplication20\WindowsFormsApplication20\bin\Debug\WindowsFormsApplication20.exe.config
+c:\users\astral\documents\visual studio 2015\Projects\WindowsFormsApplication20\WindowsFormsApplication20\obj\Debug\WindowsFormsApplication20.exe
+c:\users\astral\documents\visual studio 2015\Projects\WindowsFormsApplication20\WindowsFormsApplication20\obj\Debug\WindowsFormsApplication20.pdb
